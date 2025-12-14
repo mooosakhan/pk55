@@ -1,4 +1,3 @@
-import { Button } from "ui";
 import HeroBanner from "../components/Home";
 
 export default function Home() {
